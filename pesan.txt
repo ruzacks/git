@@ -1,0 +1,14 @@
+1. hapus guru
+2. hapus siswa
+3. hapus materi
+4. hapus kelas
+5. hapus pengumuman
+6. hapus admin
+7. ubah password
+8. posting pengumuman
+9. tambah admin
+10. buat kelas
+11. unggah materi
+12. ubah profil
+13. keluar kelas
+14. ambil kelas
